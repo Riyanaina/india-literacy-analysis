@@ -2,7 +2,7 @@
 My beginner project for learning purpose on real world datasets.
 
 ## Project Overview
-This is a beginner data analysis project using India's 2011 Census dataset
+This is a beginner data analysis project on literacy rate of india using India's 2011 Census dataset
 to understand real world problems and data's patterns.
 
 ## Analysis Performed
